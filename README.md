@@ -16,6 +16,7 @@
 - 项目使用EventBus框架来进行事件发布和订阅。
 - 项目使用Lifecycle框架监听Activity与Fragment的生命周期变化。
 - 项目使用ImmersionBar框架处理沉浸式状态栏。
+- 项目使用LeakCanary框架以检测内存泄漏。
 - 项目使用自封装的CrashHandler用以捕捉全局的崩溃日志并输出到文件。
 - 权限相关 - PermissionManeger。
 - 加解密相关 - AESUtil。
@@ -60,6 +61,7 @@ Github地址：https://github.com/mythmayor/MvpArchitecture
 - The project uses the EventBus framework for event publishing and subscription.
 - The project uses the Lifecycle framework to monitor the life cycle changes of Activity and Fragment.
 - The project uses the ImmersionBar framework to handle the immersive status bar.
+- The project uses the LeakCanary framework to detect memory leaks.
 - The project uses a self-packaged CrashHandler to capture the global crash log and output it to a file.
 - Permission related - PermissionManeger.
 - Related to encryption and decryption - AESUtil.
